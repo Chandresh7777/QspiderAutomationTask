@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Web_Table.SelectAllDataFromTheColumns">
+      <class name="Web_Table.TableWithSort">
         <methods>
           <include name="ExecuteWebTable"/>
         </methods>
-      </class> <!-- Web_Table.SelectAllDataFromTheColumns -->
+      </class> <!-- Web_Table.TableWithSort -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
